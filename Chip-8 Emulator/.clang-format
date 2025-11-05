@@ -1,0 +1,20 @@
+BasedOnStyle: Google
+IndentWidth: 2
+ColumnLimit: 100
+DerivePointerAlignment: false
+PointerAlignment: Left
+AllowShortIfStatementsOnASingleLine: false
+AllowShortFunctionsOnASingleLine: None
+SortIncludes: true
+IncludeBlocks: Regroup
+SpaceInEmptyParentheses: false
+SpacesInParentheses: false
+SpacesInAngles: false
+Cpp11BracedListStyle: false
+BreakBeforeBraces: Attach
+AlignAfterOpenBracket: Align
+BinPackArguments: false
+BinPackParameters: false
+ReflowComments: true
+
+
