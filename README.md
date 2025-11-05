@@ -120,6 +120,7 @@ Implemented opcodes include the standard CHIP-8 set (CLS, RET, JP, CALL, SE/SNE,
 - Optional: add ROM selector UI, on-screen HUD, or debugger (disassembly/step/inspect).
 
 ---
-Built with ❤️ in C, with a focus on clarity, determinism, and testability.
+Built it using C
+
 
 
